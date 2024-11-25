@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Natural Science, Alma MAter Studiorum University of Bologna, 2018
+* M.S. in Nature Sciences and Management, Alma MAter Studiorum University of Bologna, 2024
+* Ph.D in Version Control Theory, La Statale University of Milan, 2027 (expected)
 
 Work experience
 ======
