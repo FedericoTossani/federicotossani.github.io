@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Federico Tossani"
 title_separator          : "-"
 name                     : &name "Federico Tossani"
-description              : &description "personal description"
+description              : &description "PhD student UNIMI collab with ISPRA | Interested in #seabirds 🌊, #movementecology, #ecotoxicology 🧪, #dataanalysis 📊 | #travel 🎒, #outdoor and mate 🧉 addicted"
 url                      : https://federicotossani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "FedericoTossani/federicotossani.github.io"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "federico Tossani"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Italy"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : ""
+  googlescholar    : ""
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Federico-Tossani"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,17 +96,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "FedericoTossani"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        :"@unvandinome_wanda"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0003-3955-4625"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :  https://stackoverflow.com/users/22314737/fedet
   steam            :
   tumblr           :
   twitter          : "replacethistwitterhandle"
