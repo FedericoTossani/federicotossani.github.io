@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Natural Science, Alma MAter Studiorum University of Bologna, 2018
 * M.S. in Nature Sciences and Management, Alma MAter Studiorum University of Bologna, 2024
-* Ph.D in Version Control Theory, La Statale University of Milan, 2027 (expected)
+* Ph.D in Environmental Sciences, Università degli Studi di Milano, 2027 (expected)
 
 Work experience
 ======
